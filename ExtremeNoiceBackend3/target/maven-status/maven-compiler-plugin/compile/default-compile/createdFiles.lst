@@ -1,0 +1,16 @@
+myProject\model\Product.class
+myProject\model\Supplier.class
+myProject\dao\SupplierDAOimpl.class
+myProject\dao\ProductDAOimpl.class
+myProject\dao\SupplierDAO.class
+myProject\model\User.class
+myProject\dao\UserDAO.class
+myProject\dao\ProductDAO.class
+myProject\dao\CartDAO.class
+myProject\model\Cart.class
+myProject\dao\CartDAOimpl.class
+myProject\model\Category.class
+myProject\dao\CategoryDAOimpl.class
+myProject\dao\UserDAOimpl.class
+myProject\dao\CategoryDAO.class
+myProject\ExtremeNoiceBackend3\DBconfig.class
